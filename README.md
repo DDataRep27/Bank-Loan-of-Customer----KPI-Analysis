@@ -12,3 +12,10 @@
 * State wise and month wise loan status
 
 * Home ownership Vs last payment date status
+
+*Steps involved:*
+* Load, read and examine the dataset.
+* Clean, merge and save the data using excel_PowerQuery, MySQL etc. and save the file.
+* Provide analysis to all the KPIs using visualization tools such as Excel, Tableau and PowerBI.
+* Build the dashboard of the required KPIs for analysing the overall performance and data in Excel, Tableau & PowerBI.
+
