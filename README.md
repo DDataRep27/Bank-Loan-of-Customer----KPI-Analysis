@@ -18,4 +18,5 @@
 * Clean, merge and save the data using excel_PowerQuery, MySQL etc. and save the file.
 * Provide analysis to all the KPIs using visualization tools such as Excel, Tableau and PowerBI.
 * Build the dashboard of the required KPIs for analysing the overall performance and data in Excel, Tableau & PowerBI.
+* Observed & drawn final conclusions and made a Powerpoint presentation on the same.  
 
