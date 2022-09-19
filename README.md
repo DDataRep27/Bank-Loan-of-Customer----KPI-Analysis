@@ -1,6 +1,6 @@
 # Bank-Loan-of-Customer----KPI-Analysis
 
-***Analysed the loan dataset and build KPIs*** 
+***Analysed the loan dataset, answered all the required KPIs by building dashboards using tools such as Excel, MySQL, Tableau & PowerBI*** 
 
 *The following KPIs include:*
 * Year wise loan amount Status
